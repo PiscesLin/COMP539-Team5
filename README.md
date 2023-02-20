@@ -16,25 +16,25 @@ The class project is to design, implement, and deploy a URL Shortener Service.
 ## Dev Tools  
 
 [IntelliJ IDEA (IDE)](https://www.jetbrains.com/idea/download)      
-[Bellsoft Liberica JDK (Java Development Kit)](https://bell-sw.com/pages/downloads/)        
+[VS CODE](https://code.visualstudio.com)
     
 ## Tech Stack
 
-### Java for coding
+### node.js/Express for web framework
 
-Links for beginners:   
-[w3schools Java tutorial](https://www.w3schools.com/java/java_syntax.asp)  
-[geeksforgeeks tutorial](https://www.geeksforgeeks.org/java-how-to-start-learning-java/)
+### Downloads:    
+[node.js](https://nodejs.org/en/)   
+[Express](https://expressjs.com)   
 
-App Framework:   
-[Spring Boot](https://spring.io/quickstart)
+### Links for beginners:   
+[node.js/Express tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)  
 
-### Cloud Deployment
 
+### Cloud Deployment:   
 [Google Cloud](https://cloud.google.com/docs)  
+[Deploying node.js applicaitons](https://cloud.google.com/appengine/docs/standard/nodejs/building-app)   
 [Bigtable (nosql database)](https://cloud.google.com/bigtable/docs)  
    
-Google App Engine    
+### Google App Engine:    
 [What is Google AppEngine?](https://www.geeksforgeeks.org/what-is-google-app-engine-gae/)  
 [AppEngine Documentation](https://cloud.google.com/appengine/#section-2)
-    
